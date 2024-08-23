@@ -1,0 +1,7 @@
+C:\C#\Collections\Generic\bin\Debug\Generic.exe.config
+C:\C#\Collections\Generic\bin\Debug\Generic.exe
+C:\C#\Collections\Generic\bin\Debug\Generic.pdb
+C:\C#\Collections\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+C:\C#\Collections\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Generic\obj\Debug\Generic.exe
+C:\C#\Collections\Generic\obj\Debug\Generic.pdb

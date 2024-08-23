@@ -1,0 +1,7 @@
+C:\C#\Collections\Tp_tinh_toan_tuple\bin\Debug\Tp_tinh_toan_tuple.exe.config
+C:\C#\Collections\Tp_tinh_toan_tuple\bin\Debug\Tp_tinh_toan_tuple.exe
+C:\C#\Collections\Tp_tinh_toan_tuple\bin\Debug\Tp_tinh_toan_tuple.pdb
+C:\C#\Collections\Tp_tinh_toan_tuple\obj\Debug\Tp_tinh_toan_tuple_2.csproj.AssemblyReference.cache
+C:\C#\Collections\Tp_tinh_toan_tuple\obj\Debug\Tp_tinh_toan_tuple_2.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Tp_tinh_toan_tuple\obj\Debug\Tp_tinh_toan_tuple.exe
+C:\C#\Collections\Tp_tinh_toan_tuple\obj\Debug\Tp_tinh_toan_tuple.pdb

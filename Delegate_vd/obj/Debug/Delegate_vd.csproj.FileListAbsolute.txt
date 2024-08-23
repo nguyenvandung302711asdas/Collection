@@ -1,0 +1,7 @@
+C:\C#\Collections\Delegate_vd\bin\Debug\Delegate_vd.exe.config
+C:\C#\Collections\Delegate_vd\bin\Debug\Delegate_vd.exe
+C:\C#\Collections\Delegate_vd\bin\Debug\Delegate_vd.pdb
+C:\C#\Collections\Delegate_vd\obj\Debug\Delegate_vd.csproj.AssemblyReference.cache
+C:\C#\Collections\Delegate_vd\obj\Debug\Delegate_vd.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Delegate_vd\obj\Debug\Delegate_vd.exe
+C:\C#\Collections\Delegate_vd\obj\Debug\Delegate_vd.pdb

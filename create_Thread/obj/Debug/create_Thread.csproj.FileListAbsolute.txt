@@ -1,0 +1,7 @@
+C:\C#\Collections\create_Thread\bin\Debug\create_Thread.exe.config
+C:\C#\Collections\create_Thread\bin\Debug\create_Thread.exe
+C:\C#\Collections\create_Thread\bin\Debug\create_Thread.pdb
+C:\C#\Collections\create_Thread\obj\Debug\create_Thread.csproj.AssemblyReference.cache
+C:\C#\Collections\create_Thread\obj\Debug\create_Thread.csproj.CoreCompileInputs.cache
+C:\C#\Collections\create_Thread\obj\Debug\create_Thread.exe
+C:\C#\Collections\create_Thread\obj\Debug\create_Thread.pdb

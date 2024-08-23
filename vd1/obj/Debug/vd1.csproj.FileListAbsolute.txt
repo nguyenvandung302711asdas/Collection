@@ -1,0 +1,7 @@
+C:\C#\Collections\vd1\obj\Debug\vd1.csproj.AssemblyReference.cache
+C:\C#\Collections\vd1\obj\Debug\vd1.csproj.CoreCompileInputs.cache
+C:\C#\Collections\vd1\bin\Debug\vd1.exe.config
+C:\C#\Collections\vd1\bin\Debug\vd1.exe
+C:\C#\Collections\vd1\bin\Debug\vd1.pdb
+C:\C#\Collections\vd1\obj\Debug\vd1.exe
+C:\C#\Collections\vd1\obj\Debug\vd1.pdb

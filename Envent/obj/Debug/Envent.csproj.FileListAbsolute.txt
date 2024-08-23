@@ -1,0 +1,7 @@
+C:\C#\Collections\Envent\bin\Debug\Envent.exe.config
+C:\C#\Collections\Envent\bin\Debug\Envent.exe
+C:\C#\Collections\Envent\bin\Debug\Envent.pdb
+C:\C#\Collections\Envent\obj\Debug\Envent.csproj.AssemblyReference.cache
+C:\C#\Collections\Envent\obj\Debug\Envent.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Envent\obj\Debug\Envent.exe
+C:\C#\Collections\Envent\obj\Debug\Envent.pdb

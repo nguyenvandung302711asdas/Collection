@@ -1,0 +1,7 @@
+C:\C#\Collections\th_vd\bin\Debug\th_vd.exe.config
+C:\C#\Collections\th_vd\bin\Debug\th_vd.exe
+C:\C#\Collections\th_vd\bin\Debug\th_vd.pdb
+C:\C#\Collections\th_vd\obj\Debug\th_vd.csproj.AssemblyReference.cache
+C:\C#\Collections\th_vd\obj\Debug\th_vd.csproj.CoreCompileInputs.cache
+C:\C#\Collections\th_vd\obj\Debug\th_vd.exe
+C:\C#\Collections\th_vd\obj\Debug\th_vd.pdb

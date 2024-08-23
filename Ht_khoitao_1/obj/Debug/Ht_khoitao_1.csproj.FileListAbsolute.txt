@@ -1,0 +1,7 @@
+C:\C#\Collections\Ht_khoitao_1\bin\Debug\Ht_khoitao_1.exe.config
+C:\C#\Collections\Ht_khoitao_1\bin\Debug\Ht_khoitao_1.exe
+C:\C#\Collections\Ht_khoitao_1\bin\Debug\Ht_khoitao_1.pdb
+C:\C#\Collections\Ht_khoitao_1\obj\Debug\Ht_khoitao_1.csproj.AssemblyReference.cache
+C:\C#\Collections\Ht_khoitao_1\obj\Debug\Ht_khoitao_1.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Ht_khoitao_1\obj\Debug\Ht_khoitao_1.exe
+C:\C#\Collections\Ht_khoitao_1\obj\Debug\Ht_khoitao_1.pdb

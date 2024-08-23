@@ -1,0 +1,7 @@
+C:\C#\Collections\Tp_Tao_sd_1\bin\Debug\Tp_Tao_sd_1.exe.config
+C:\C#\Collections\Tp_Tao_sd_1\bin\Debug\Tp_Tao_sd_1.exe
+C:\C#\Collections\Tp_Tao_sd_1\bin\Debug\Tp_Tao_sd_1.pdb
+C:\C#\Collections\Tp_Tao_sd_1\obj\Debug\Tp_Tao_sd_1.csproj.AssemblyReference.cache
+C:\C#\Collections\Tp_Tao_sd_1\obj\Debug\Tp_Tao_sd_1.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Tp_Tao_sd_1\obj\Debug\Tp_Tao_sd_1.exe
+C:\C#\Collections\Tp_Tao_sd_1\obj\Debug\Tp_Tao_sd_1.pdb

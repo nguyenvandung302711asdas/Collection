@@ -1,0 +1,7 @@
+C:\C#\Collections\stack_1\bin\Debug\stack_1.exe.config
+C:\C#\Collections\stack_1\bin\Debug\stack_1.exe
+C:\C#\Collections\stack_1\bin\Debug\stack_1.pdb
+C:\C#\Collections\stack_1\obj\Debug\stack_1.csproj.AssemblyReference.cache
+C:\C#\Collections\stack_1\obj\Debug\stack_1.csproj.CoreCompileInputs.cache
+C:\C#\Collections\stack_1\obj\Debug\stack_1.exe
+C:\C#\Collections\stack_1\obj\Debug\stack_1.pdb

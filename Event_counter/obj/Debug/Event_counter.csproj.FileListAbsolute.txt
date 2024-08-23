@@ -1,0 +1,7 @@
+C:\C#\Collections\Event_counter\bin\Debug\Event_counter.exe.config
+C:\C#\Collections\Event_counter\bin\Debug\Event_counter.exe
+C:\C#\Collections\Event_counter\bin\Debug\Event_counter.pdb
+C:\C#\Collections\Event_counter\obj\Debug\Event_counter.csproj.AssemblyReference.cache
+C:\C#\Collections\Event_counter\obj\Debug\Event_counter.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Event_counter\obj\Debug\Event_counter.exe
+C:\C#\Collections\Event_counter\obj\Debug\Event_counter.pdb

@@ -1,0 +1,7 @@
+C:\C#\Collections\ArrayList_4\bin\Debug\ArrayList_4.exe.config
+C:\C#\Collections\ArrayList_4\bin\Debug\ArrayList_4.exe
+C:\C#\Collections\ArrayList_4\bin\Debug\ArrayList_4.pdb
+C:\C#\Collections\ArrayList_4\obj\Debug\ArrayList_4.csproj.AssemblyReference.cache
+C:\C#\Collections\ArrayList_4\obj\Debug\ArrayList_4.csproj.CoreCompileInputs.cache
+C:\C#\Collections\ArrayList_4\obj\Debug\ArrayList_4.exe
+C:\C#\Collections\ArrayList_4\obj\Debug\ArrayList_4.pdb

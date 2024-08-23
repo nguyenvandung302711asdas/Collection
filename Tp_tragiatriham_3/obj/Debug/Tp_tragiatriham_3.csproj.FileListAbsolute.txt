@@ -1,0 +1,7 @@
+C:\C#\Collections\Tp_tragiatriham_3\bin\Debug\Tp_tragiatriham_3.exe.config
+C:\C#\Collections\Tp_tragiatriham_3\bin\Debug\Tp_tragiatriham_3.exe
+C:\C#\Collections\Tp_tragiatriham_3\bin\Debug\Tp_tragiatriham_3.pdb
+C:\C#\Collections\Tp_tragiatriham_3\obj\Debug\Tp_tragiatriham_3.csproj.AssemblyReference.cache
+C:\C#\Collections\Tp_tragiatriham_3\obj\Debug\Tp_tragiatriham_3.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Tp_tragiatriham_3\obj\Debug\Tp_tragiatriham_3.exe
+C:\C#\Collections\Tp_tragiatriham_3\obj\Debug\Tp_tragiatriham_3.pdb

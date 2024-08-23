@@ -1,0 +1,7 @@
+C:\C#\Collections\Delegate_thamso_3\bin\Debug\Delegate_thamso_3.exe.config
+C:\C#\Collections\Delegate_thamso_3\bin\Debug\Delegate_thamso_3.exe
+C:\C#\Collections\Delegate_thamso_3\bin\Debug\Delegate_thamso_3.pdb
+C:\C#\Collections\Delegate_thamso_3\obj\Debug\Delegate_thamso_3.csproj.AssemblyReference.cache
+C:\C#\Collections\Delegate_thamso_3\obj\Debug\Delegate_thamso_3.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Delegate_thamso_3\obj\Debug\Delegate_thamso_3.exe
+C:\C#\Collections\Delegate_thamso_3\obj\Debug\Delegate_thamso_3.pdb

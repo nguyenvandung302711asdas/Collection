@@ -1,0 +1,7 @@
+C:\C#\Collections\Thread_vd\bin\Debug\Thread_vd.exe.config
+C:\C#\Collections\Thread_vd\bin\Debug\Thread_vd.exe
+C:\C#\Collections\Thread_vd\bin\Debug\Thread_vd.pdb
+C:\C#\Collections\Thread_vd\obj\Debug\Thread_vd.csproj.AssemblyReference.cache
+C:\C#\Collections\Thread_vd\obj\Debug\Thread_vd.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Thread_vd\obj\Debug\Thread_vd.exe
+C:\C#\Collections\Thread_vd\obj\Debug\Thread_vd.pdb

@@ -1,0 +1,7 @@
+C:\C#\Collections\Delegate_Methors_2\bin\Debug\Delegate_Methors_2.exe.config
+C:\C#\Collections\Delegate_Methors_2\bin\Debug\Delegate_Methors_2.exe
+C:\C#\Collections\Delegate_Methors_2\bin\Debug\Delegate_Methors_2.pdb
+C:\C#\Collections\Delegate_Methors_2\obj\Debug\Delegate_Methors_2.csproj.AssemblyReference.cache
+C:\C#\Collections\Delegate_Methors_2\obj\Debug\Delegate_Methors_2.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Delegate_Methors_2\obj\Debug\Delegate_Methors_2.exe
+C:\C#\Collections\Delegate_Methors_2\obj\Debug\Delegate_Methors_2.pdb

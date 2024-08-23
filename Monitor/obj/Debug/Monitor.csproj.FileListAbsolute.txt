@@ -1,0 +1,7 @@
+C:\C#\Collections\Monitor\bin\Debug\Monitor.exe.config
+C:\C#\Collections\Monitor\bin\Debug\Monitor.exe
+C:\C#\Collections\Monitor\bin\Debug\Monitor.pdb
+C:\C#\Collections\Monitor\obj\Debug\Monitor.csproj.AssemblyReference.cache
+C:\C#\Collections\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Monitor\obj\Debug\Monitor.exe
+C:\C#\Collections\Monitor\obj\Debug\Monitor.pdb

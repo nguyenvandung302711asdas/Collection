@@ -1,0 +1,7 @@
+C:\C#\Collections\arraylist\bin\Debug\arraylist.exe.config
+C:\C#\Collections\arraylist\bin\Debug\arraylist.exe
+C:\C#\Collections\arraylist\bin\Debug\arraylist.pdb
+C:\C#\Collections\arraylist\obj\Debug\arraylist.csproj.AssemblyReference.cache
+C:\C#\Collections\arraylist\obj\Debug\arraylist.csproj.CoreCompileInputs.cache
+C:\C#\Collections\arraylist\obj\Debug\arraylist.exe
+C:\C#\Collections\arraylist\obj\Debug\arraylist.pdb

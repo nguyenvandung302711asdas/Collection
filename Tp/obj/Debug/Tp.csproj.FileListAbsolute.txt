@@ -1,0 +1,7 @@
+C:\C#\Collections\Tp\bin\Debug\Tp.exe.config
+C:\C#\Collections\Tp\bin\Debug\Tp.exe
+C:\C#\Collections\Tp\bin\Debug\Tp.pdb
+C:\C#\Collections\Tp\obj\Debug\Tp.csproj.AssemblyReference.cache
+C:\C#\Collections\Tp\obj\Debug\Tp.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Tp\obj\Debug\Tp.exe
+C:\C#\Collections\Tp\obj\Debug\Tp.pdb

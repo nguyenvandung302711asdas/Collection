@@ -1,0 +1,7 @@
+C:\C#\Collections\Delegate_printf_4\bin\Debug\Delegate_printf_4.exe.config
+C:\C#\Collections\Delegate_printf_4\bin\Debug\Delegate_printf_4.exe
+C:\C#\Collections\Delegate_printf_4\bin\Debug\Delegate_printf_4.pdb
+C:\C#\Collections\Delegate_printf_4\obj\Debug\Delegate_printf_4.csproj.AssemblyReference.cache
+C:\C#\Collections\Delegate_printf_4\obj\Debug\Delegate_printf_4.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Delegate_printf_4\obj\Debug\Delegate_printf_4.exe
+C:\C#\Collections\Delegate_printf_4\obj\Debug\Delegate_printf_4.pdb

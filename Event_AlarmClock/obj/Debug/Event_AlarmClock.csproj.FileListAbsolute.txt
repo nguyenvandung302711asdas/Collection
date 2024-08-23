@@ -1,0 +1,7 @@
+C:\C#\Collections\Event_AlarmClock\bin\Debug\Event_AlarmClock.exe.config
+C:\C#\Collections\Event_AlarmClock\bin\Debug\Event_AlarmClock.exe
+C:\C#\Collections\Event_AlarmClock\bin\Debug\Event_AlarmClock.pdb
+C:\C#\Collections\Event_AlarmClock\obj\Debug\Event_AlarmClock.csproj.AssemblyReference.cache
+C:\C#\Collections\Event_AlarmClock\obj\Debug\Event_AlarmClock.csproj.CoreCompileInputs.cache
+C:\C#\Collections\Event_AlarmClock\obj\Debug\Event_AlarmClock.exe
+C:\C#\Collections\Event_AlarmClock\obj\Debug\Event_AlarmClock.pdb

@@ -1,0 +1,7 @@
+C:\C#\Collections\ev_vd\bin\Debug\ev_vd.exe.config
+C:\C#\Collections\ev_vd\bin\Debug\ev_vd.exe
+C:\C#\Collections\ev_vd\bin\Debug\ev_vd.pdb
+C:\C#\Collections\ev_vd\obj\Debug\ev_vd.csproj.AssemblyReference.cache
+C:\C#\Collections\ev_vd\obj\Debug\ev_vd.csproj.CoreCompileInputs.cache
+C:\C#\Collections\ev_vd\obj\Debug\ev_vd.exe
+C:\C#\Collections\ev_vd\obj\Debug\ev_vd.pdb
